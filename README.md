@@ -1,6 +1,6 @@
 # Hi, I'm Uzair 👋
 
-🎓 **Data Science Undergraduate
+🎓 **Data Science Undergraduate**
 Python Developer | Learner | Project-Based Learning
 
 I’m a student developer focused on **learning by building projects**.  
